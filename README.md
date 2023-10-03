@@ -1,4 +1,4 @@
-### Ola sou Caio. Epero que você goste do que ver. 
+### Ola sou Caio. Espero que você goste do que ver. 
 
 <!--
 **CaioBernardelli/CaioBernardelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
